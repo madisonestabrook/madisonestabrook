@@ -11,17 +11,15 @@ This repository is about me (Madison Estabrook), including:
 
 # Current Projects
 
-Currently, I am a:
--	Computer Systems Project Consultant at AHCA
--	Nutanix Hybrid Cloud Scholar
+Currently, I am:
+-	A Computer Systems Project Consultant at AHCA
+-	Working on earning my (second) MS in Data Science at UWF
 
 # Current Interests 
 ## Libraries / Frameworks
 
 Currently, I am interested in learning more about:
--	[Dask]( https://github.com/dask/dask)
--	[pandas](https://github.com/pandas-dev/pandas)
--	[PyTorch](https://github.com/pytorch/pytorch)
+-	[Julia](https://julialang.org/)
 -	[Spark](https://github.com/apache/spark)
 -	[Tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -36,8 +34,8 @@ I am interested in and have experience in:
 
 I am interested in learning more about:
 -	Anything big data
--	Cloud computing 
 -	Cybersecurity 
+-    Computer Vision (_CV_)
 -	Deep Learning / Deep Reinforcement Learning
 -	Natural Language Processing (_NLP_)
 
