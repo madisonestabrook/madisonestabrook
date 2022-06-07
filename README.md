@@ -7,7 +7,6 @@ This repository is about me (Madison Estabrook), including:
      -	Libraries / Frameworks
      -	Languages
       -	Subjects
--	How to Reach Me
 
 # Current Projects
 
@@ -35,7 +34,4 @@ I am interested in and have experience in:
 
 I am interested in learning more about:
 -	Progressive, Accessible, and Offline-First Web Apps
--    Non-relational Database Development and Administration
-
-# How to Reach Me
-If you want to reach me, the best way is through email (<madison.estabrook@gmail.com>).
+-    Non-Relational Database Development and Administration
