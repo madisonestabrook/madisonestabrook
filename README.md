@@ -1,5 +1,5 @@
 # Welcome
-Hi! I am Madison Estabrook. _I make your data your data meaningful through Python (3.x), R, Julia and SQL_. I am a six-time Facebook Scholar; I have also earned two scholarships from Google. I graduated with my Master’s of Science in Technical Communication in May 2019 with a 4.0 / 4.0 GPA; I graduated with my Bachelor’s of Science in Information Analytics and Data Communication with a 3.78 / 4.0 GPA in December 2017.
+Hi! I am Madison Estabrook. _I am an experienced, driven, and analytical Microsoft SQL Server Database Administrator seeking to increase data accessibility and integrity. Let’s work together to reach the long- and short-term goals of your company_. I am a six-time Facebook Scholar; I have also earned two scholarships from Google. I graduated with my Master’s of Science in Technical Communication in May 2019 with a 4.0 / 4.0 GPA; I graduated with my Bachelor’s of Science in Information Analytics and Data Communication with a 3.78 / 4.0 GPA in December 2017.
 
 This repository is about me (Madison Estabrook), including: 
 -	My current projects
